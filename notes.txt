@@ -1,0 +1,4 @@
+LLMs try to guess the next part of a sentence
+
+Tokenizing is to make text into something a AI can understand
+Batching is importiant to boost efficiency
